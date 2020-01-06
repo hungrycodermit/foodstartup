@@ -1,0 +1,448 @@
+@media only screen and (max-width: 1118px)
+{
+	.text_column{
+    display: inline-block;
+    white-space: nowrap;
+    width: 50%;
+    vertical-align: top;
+    height: auto;
+    margin-top: 25px;
+    padding-left: 1%;
+    font-weight: 300;
+}
+}
+
+@media only screen and (max-width: 1048px)
+{
+
+	body{
+		font-size: 18px;
+	}
+
+	.signup-box{
+    font-size: 17px;
+	}
+
+	.mid-row-list li{
+    list-style-type: none;
+    font-weight: 300;
+    font-size: 16px;
+    margin-bottom: 10px;
+	}	
+}
+
+@media only screen and (max-width: 927px)
+{
+
+	.row{
+		width: 95%;
+		margin: 0 auto;
+	}
+}
+
+@media only screen and (max-width: 1048px)
+{
+	body{
+		font-size: 17px;
+	}
+
+	.signup-box{
+    font-size: 19px;
+	}
+
+	.mid-row-list li{
+    list-style-type: none;
+    font-weight: 300;
+    font-size: 14px;
+    margin-bottom: 10px;
+	}
+
+	.c-icon{
+    margin-right: 8px;
+    color: #e67e22;
+    width: 15px;
+    font-size: 110%;
+    vertical-align: middle;
+    line-height: 120%;
+    margin-top: -6px;
+    display: inline-block;
+    text-align: center;
+}
+}
+
+@media only screen and (max-width: 815px){
+
+		.something{
+			margin-top: 20px;
+		}
+
+		.text_column{
+			margin-top: 15px;
+		}
+
+		.playstore{
+			margin-top: 25px;
+		}
+
+		.one{
+			width: 43px;
+			height: 43px; 
+		}
+
+
+		.form-wrapper-main{
+    white-space: nowrap;
+}
+
+.formfield{
+    width: 60%;
+    font-size: 0;
+    margin: 0 auto;
+    white-space: normal;
+}
+
+.fc1{
+    display: inline-block;
+    width: 40%;
+    font-size: 17px;
+    font-weight: 300;
+    vertical-align: top;
+}
+
+.fc2{
+    display: inline-block;
+    width: 60%;
+    font-weight: 300;
+    vertical-align: top;
+    font-size: 17px;
+}
+
+.left{
+    text-align:left; 
+}
+
+.features_para{
+    width: 80%;
+    text-align: center;
+    word-spacing: 0px;
+    margin: 0 auto;
+    font-weight: 300;
+    font-size: 100%;
+    margin-bottom: 20px;
+}
+
+}
+
+@media only screen and (max-width: 770px){
+
+    .span-1-of-4{
+        width:50% !important;
+    }
+
+    .col___m{
+    margin-left: 0% !important;
+    }
+
+    .col{
+        margin: 0;
+        padding: 30px;
+    }
+
+    .col__wrapper{
+        text-align: center;
+    }
+
+    .hiworks_main_wrapper{
+    width: 100%;
+    white-space: normal;
+    height: auto;
+    }
+
+    .image_column{
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    padding-right: 0%;
+}
+
+.image_column img{
+    width: 25%;
+    height: auto;
+    font-size: 0;
+    vertical-align: top;
+}
+
+.one_content br{
+    display: none;
+}
+
+.text_column{
+    display: block;
+    white-space: normal;
+    width: 80%;
+    padding-left: 0;
+    vertical-align: top;
+    height: auto;
+    margin: 40px auto;
+    font-weight: 300;
+}
+
+.hiworks_section{
+    padding: 60px 0px;
+}
+
+.btn_wrapper{
+    text-align: center;
+}
+
+.one{
+    vertical-align: middle;
+}
+
+.one_content{
+    vertical-align: middle;
+    font-size: 110%;
+}
+
+.cities_col1{
+    padding-right: 0px;
+    width: 100%;
+    display: block;
+    margin-bottom: 40px;
+}
+
+.cities_cols{
+    white-space: normal;
+    padding: 40px;
+}
+
+.head_cities h1::after{
+    content: " ";
+    margin: 18px auto 20px;
+    width: 9%;
+    display: block;
+    height: 2px;
+    background-color: #e67e22;
+}
+
+.cities_cater{
+    padding:60px 0px 30px;
+}
+
+.pad-right-no{
+    margin-bottom: 0px;
+}
+
+.col1_text > :first-child{
+    font-size: 130%;
+}
+
+.cities_reach{
+    font-size: 100%;
+}
+
+
+.customer{
+    display: block;
+    width: 100%;
+    margin-bottom: 60px;
+    padding: 10px;
+}
+
+blockquote{
+    font-size: 105%;
+}
+
+.testimonials{
+    padding: 60px 0px;
+}
+
+.test-head h1::after{
+    margin-bottom: 60px;
+}
+
+.no-mar-bottom{
+    margin-bottom: 0px;
+}
+
+.signup-box{
+    display: block;
+    width: 100%;
+    margin-right: 0;
+    font-size: 21px;
+}
+
+@media only screen and (max-width: 770px){
+    body{
+        font-size: 16px;
+    }
+
+    .nav_logo img{
+        width: 80px;
+        height: 80px;
+    }
+
+    .signup-box{
+        margin-bottom: 15px;
+    }
+
+    .formfield{
+        width: 100%;
+        padding: 20px;
+    }
+
+    .left-nav{
+        display: block;
+        text-align: center !important;
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .right-nav{
+        display: block;
+        width: 100%;
+    }
+
+    .right-nav-links{
+        text-align: center;
+    }
+
+    .left-nav-links{
+        text-align: center;
+    }
+
+    .facebook{ margin-top: 0px; }
+}
+}
+
+@media only screen and (max-width: 630px){
+    .nav_wrapper_link{
+        display: none;
+    }
+
+    .head_text h1{
+        font-size: 230%;
+    }
+
+    .span-1-of-4{
+        width:100% !important;
+    }
+
+    .col h2{
+        font-size: 155%;
+    }
+
+    .col p{
+        font-size: 100%;
+    }
+
+    .features_head h1, .head_text_column h1,
+    .head_cities h1,.test-head h1,.signup-head h1,.contactform-head h1 { font-size: 160%; }
+}
+
+
+@media only screen and (max-width: 481px){
+
+    .row{
+        width:100%;
+    }
+
+    .head_text h1{
+        padding: 20px;
+    }
+
+    .head_btn_1{
+        margin-left: 20px;
+    }
+
+    .nav_logo{
+        margin-left: 20px;
+    }
+
+    .image_column img{ width: 35%; }
+
+    .text_column{ 
+        padding: 20px;
+        margin: 25px auto;
+     }
+
+     .head_text_column h1{
+        margin-bottom: 30px;
+     }
+
+     .signup-plans{
+        padding: 70px 20px;
+     }
+
+     footer{
+        padding: 20px;
+     }
+
+     .left-nav{
+        white-space: normal;
+     }
+
+}
+
+@media only screen and (max-width: 481px){
+
+      .features_head h1, .head_text_column h1,
+    .head_cities h1,.test-head h1,.signup-head h1,.contactform-head h1 { padding: 5px; }
+
+    .head_text h1{
+        font-size: 190%;
+    }
+
+    .head_btn{
+        font-size: 16px;
+    }
+
+    body{
+        font-size: 15px;
+    }
+
+    .fc1{
+        display: block;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .fc2{
+        display: block;
+        width: 100%;
+    }
+
+    .hidenow{
+        display: none;
+    }
+
+}
+
+@media only screen and (max-width: 421px){
+    .one_content{
+        margin-left: 10px;
+        font-size: 100%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
